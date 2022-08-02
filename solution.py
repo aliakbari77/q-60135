@@ -1,0 +1,2 @@
+def process(path):
+    pass
